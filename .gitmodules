@@ -1,0 +1,3 @@
+[submodule "foundations/projects/odin-recipes"]
+	path = foundations/projects/odin-recipes
+	url = git@github.com:yrnmsk/odin-recipes.git
