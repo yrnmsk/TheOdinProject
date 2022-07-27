@@ -4,3 +4,9 @@
 [submodule "foundations/projects/odin-landing-page"]
 	path = foundations/projects/odin-landing-page
 	url = git@github.com:yrnmsk/odin-landing-page.git
+[submodule "foundations/odin-javascript-exercises"]
+	path = foundations/odin-javascript-exercises
+	url = git@github.com:yrnmsk/odin-javascript-exercises.git
+[submodule "foundations/projects/odin-rock-paper-scissors"]
+	path = foundations/projects/odin-rock-paper-scissors
+	url = git@github.com:yrnmsk/odin-rock-paper-scissors.git
